@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Happy Ending Forever**.<br>
 
-Saya seorang **Mahasiswa** di [UIN Raden Mas Said Surakarta]([https://www.dicoding.com/](https://www.uinsaid.ac.id/)).<br>
+Saya seorang **Mahasiswa** di [UIN Raden Mas Said Surakarta](https://www.uinsaid.ac.id/).<br>
 
 Saya memiliki minat dalam pengembangan website, software dan bidang data.<br>
 
